@@ -94,15 +94,16 @@ All configuration settings for the project can be found in `config.py`. This inc
 We welcome contributions to this project! If you find any issues, feel free to open an issue on GitHub. Pull requests for new features, bug fixes, or improvements are also appreciated.
 
 ## Acknowledgements
+This project is part of work for my master thesis in AI, this work was supervised and guided by Dr. Johannes Textor. 
 
-This project is based on the 3D U-Net architecture for medical image segmentation. Special thanks to the contributors of the open-source libraries used, including PyTorch, scikit-image, and TorchIO, among others.
+The project is based on the 3D U-Net architecture for medical image segmentation. Special thanks to the contributors of the open-source libraries used, including PyTorch, scikit-image, and TorchIO, among others.
 
 ## Contact
 
 For questions, concerns, or to request a pretrained model (with 80% accuracy), please reach out:
 
 - Email: [arawa@hotmail.it](mailto:arawa@hotmail.it) or [arawa.kolossa@ru.nl](mailto:arawa.kolossa@ru.nl)
-
+- Supervisor email: [johannes.textor@ru.n](mailto:johannes.textor@ru.nl)
 ## License
 
 This repository is licensed under the MIT License. 
