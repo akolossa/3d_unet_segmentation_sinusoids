@@ -39,7 +39,7 @@ This repository contains the implementation of a 3D U-Net model designed to segm
 
 ### Data Preprocessing
 
-Use the `dataset_augmented.py` script to preprocess the input data and prepare it for training. This script includes data augmentation techniques and applies basic 3D transformations using TorchIO.
+Use the `dataset_augmented.py` script to preprocess the input data and prepare it for training. This script includes data augmentation techniques and applies basic 3D transformations using TorchIO, as well as an augmentation based on an orientation-selective filter.
 
 ```bash
 python dataset_augmented.py
